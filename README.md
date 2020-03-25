@@ -9,6 +9,13 @@
 4. Append new content to a file
 5. Delete a particular file
 
+Few more ehnacement we can do : 
+1. Cloning
+2. Concatenation of two files into new file
+3. Overwrite the secondfile content with first file
+4. Making new dir and copying other directory into it
+
+
 #### errors will be generated as per file or dir existences.
 
 ## Libraries used :
